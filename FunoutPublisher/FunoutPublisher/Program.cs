@@ -34,6 +34,9 @@ namespace FunoutPublisher
             channel.BasicPublish("ex.fanout", "", null, Encoding.UTF8.GetBytes("Message 1"));
             channel.BasicPublish("ex.fanout", "", null, Encoding.UTF8.GetBytes("Message 2"));
 
+            Console.WriteLine("Press a key to exit.");
+            Console.ReadKey();
+
             channel.QueueDelete("my.queue1");
             channel.QueueDelete("my.queue2");
             channel.ExchangeDelete("ex.fanout");
