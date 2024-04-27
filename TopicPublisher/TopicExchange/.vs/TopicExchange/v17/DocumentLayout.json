@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lear\\Technology\\RabbitMQ\\source\\GIT\\RabbitMQ\\TopicPublisher\\TopicExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A7C5F9-B01B-4787-8763-A9BB9BB5A9D7}|TopicExchange\\TopicExchange.csproj|d:\\lear\\technology\\rabbitmq\\source\\git\\rabbitmq\\topicpublisher\\topicexchange\\topicexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A7C5F9-B01B-4787-8763-A9BB9BB5A9D7}|TopicExchange\\TopicExchange.csproj|solutionrelative:topicexchange\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lear\\Technology\\RabbitMQ\\source\\GIT\\RabbitMQ\\TopicPublisher\\TopicExchange\\TopicExchange\\Program.cs",
+              "RelativeDocumentMoniker": "TopicExchange\\Program.cs",
+              "ToolTip": "D:\\Lear\\Technology\\RabbitMQ\\source\\GIT\\RabbitMQ\\TopicPublisher\\TopicExchange\\TopicExchange\\Program.cs",
+              "RelativeToolTip": "TopicExchange\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:07:40.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
